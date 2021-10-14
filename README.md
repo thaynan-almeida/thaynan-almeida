@@ -20,10 +20,13 @@
 
 
 
-- 👋 Hi, I’m @thaynan-almeida
-- 👀 I’m interested in startup, innovation and technology.
-- 🌱 I’m currently learning about information security and data privacy.
-- 💞️ I’m looking to collaborate on technical communities.
+👋 Hi, I’m @thaynan-almeida
+
+👀 I’m interested in startup, innovation and technology.
+
+🌱 I’m currently learning about information security and data privacy.
+
+💞️ I’m looking to collaborate on technical communities.
 
 This is my reading list, book recommendations, and other suggestions to read:
 
