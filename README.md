@@ -28,8 +28,12 @@
 
 💞️ I’m looking to collaborate on technical communities.
 
-This is my reading list, book recommendations, and other suggestions to read:
+My reading list and other suggestions to read:
+- https://sre.google/sre-book/table-of-contents/
+- https://about.gitlab.com/handbook/
+- ...
 
+Book recommendations:
 * "Mar Egeu, berço de cultura": Peter Bamm
 * "Um TOC na Cuca": Roger Von Oech
 * "Feitas para Durar": Jim Collins, Jerry I. Porras
