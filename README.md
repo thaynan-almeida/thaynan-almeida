@@ -28,9 +28,10 @@
 
 💞️ I’m looking to collaborate on technical communities.
 
-My reading list and other suggestions to read:
+My reading list and other suggestions:
 - https://sre.google/sre-book/table-of-contents/
 - https://about.gitlab.com/handbook/
+- https://open.spotify.com/show/2I6K2zRfiV8q0ZOYVvdYiI
 - ...
 
 Book recommendations:
